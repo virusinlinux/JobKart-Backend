@@ -1,6 +1,5 @@
 # Jobkart Job Search App for Platform for Unorganized Sector  Workers
 
-![Alt Text](https://media.giphy.com/media/A8pRmkexvl9jCdzS5D/giphy.gif)
 
 ## ❓ Problem Statement
 
